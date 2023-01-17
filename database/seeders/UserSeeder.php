@@ -10,7 +10,7 @@ use Spatie\Permission\Models\Role;
 class UserSeeder extends Seeder
 {
     /**
-     * Run the database seeds.
+     * Run the database user seeds.
      *
      * @return void
      */
