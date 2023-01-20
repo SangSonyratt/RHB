@@ -6,7 +6,7 @@ Install dependencies
 $ composer install
 ```
 
-Copy sample env format and change database in .env file
+Copy sample env format and change config to your database in the .env file
 
 ```bash
 $ cp .env.example .env
